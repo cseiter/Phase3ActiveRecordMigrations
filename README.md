@@ -609,3 +609,5 @@ yet), here is a summary of the steps:
 [writing-migrations]: https://guides.rubyonrails.org/active_record_migrations.html#writing-a-migration
 [crud]: http://guides.rubyonrails.org/active_record_basics.html#crud-reading-and-writing-data
 [bundle exec]: https://thoughtbot.com/blog/but-i-dont-want-to-bundle-exec
+# Phase3ActiveRecordMigrations
+# Phase3ActiveRecordMigrations
